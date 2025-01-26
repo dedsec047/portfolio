@@ -1,0 +1,1 @@
+http://localhost:3000/static/media/mock1.88007b85cd992fee3ae7.png
